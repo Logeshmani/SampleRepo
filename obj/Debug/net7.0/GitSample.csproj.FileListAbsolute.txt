@@ -1,0 +1,15 @@
+D:\Relevantz\GitSample\bin\Debug\net7.0\GitSample.exe
+D:\Relevantz\GitSample\bin\Debug\net7.0\GitSample.deps.json
+D:\Relevantz\GitSample\bin\Debug\net7.0\GitSample.runtimeconfig.json
+D:\Relevantz\GitSample\bin\Debug\net7.0\GitSample.dll
+D:\Relevantz\GitSample\bin\Debug\net7.0\GitSample.pdb
+D:\Relevantz\GitSample\obj\Debug\net7.0\GitSample.csproj.AssemblyReference.cache
+D:\Relevantz\GitSample\obj\Debug\net7.0\GitSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Relevantz\GitSample\obj\Debug\net7.0\GitSample.AssemblyInfoInputs.cache
+D:\Relevantz\GitSample\obj\Debug\net7.0\GitSample.AssemblyInfo.cs
+D:\Relevantz\GitSample\obj\Debug\net7.0\GitSample.csproj.CoreCompileInputs.cache
+D:\Relevantz\GitSample\obj\Debug\net7.0\GitSample.dll
+D:\Relevantz\GitSample\obj\Debug\net7.0\refint\GitSample.dll
+D:\Relevantz\GitSample\obj\Debug\net7.0\GitSample.pdb
+D:\Relevantz\GitSample\obj\Debug\net7.0\GitSample.genruntimeconfig.cache
+D:\Relevantz\GitSample\obj\Debug\net7.0\ref\GitSample.dll
