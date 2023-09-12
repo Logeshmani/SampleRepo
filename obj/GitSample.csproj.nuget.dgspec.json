@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Relevantz\\GitSample\\GitSample.csproj": {}
+    "d:\\Relevantz\\GitSample\\GitSample.csproj": {}
   },
   "projects": {
-    "D:\\Relevantz\\GitSample\\GitSample.csproj": {
+    "d:\\Relevantz\\GitSample\\GitSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Relevantz\\GitSample\\GitSample.csproj",
+        "projectUniqueName": "d:\\Relevantz\\GitSample\\GitSample.csproj",
         "projectName": "GitSample",
-        "projectPath": "D:\\Relevantz\\GitSample\\GitSample.csproj",
+        "projectPath": "d:\\Relevantz\\GitSample\\GitSample.csproj",
         "packagesPath": "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\",
-        "outputPath": "D:\\Relevantz\\GitSample\\obj\\",
+        "outputPath": "d:\\Relevantz\\GitSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\logeshwaran.mani\\AppData\\Roaming\\NuGet\\NuGet.Config"
